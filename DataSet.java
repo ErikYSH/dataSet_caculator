@@ -45,5 +45,6 @@ public class DataSet
         System.out.printf("The smallest value is %16.2f\n", smallestValue);
         System.out.printf("The largest value is %17.2f\n", largestValue);
         System.out.printf("The range is %25.2f\n", rangeValue);
+        
     }
 }
